@@ -1,2 +1,2 @@
 # spotify-anaylsis-project
-An analysis into Spotify track &amp; artist characteristics to determine which characteristics are present in top billboarded songs. The .ipynb is the notebook with the project.
+An analysis into Spotify track &amp; artist characteristics to determine which characteristics are present in top billboarded songs. The .ipynb is the notebook with the project. Using Kaggle data sets (and cleaning), the project encapsulates 11 key characteristics of over 176000+ tracks. That data is used to determine key characteristics that top songs have in common and serves as a guide for new artists to target certain characteristics over others when creating a new song.
